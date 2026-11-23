@@ -1,0 +1,10 @@
+# Asset credits
+
+Scene staging, cameras, model adaptations and animation by The Fetching Westie.
+
+- **2024 Tesla Model 3 Highland** by RBLXSupercars. The source copy credits brandonleong28 as uploader. Adaptations include scale, paint, wheels, cabin setup and dashboard visualization. [Artist](https://sketchfab.com/RBLXSupercars) · [Model source and credits](https://github.com/erictfree/Carbon-Footprint-AI-Visualizer/tree/af4bef33ca371b24c1f043486f09a13571f4919b/models/tesla-model-3-2024) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- **BMW 1 Series M** by Mike Pan. The coupe uses body and wheel geometry adapted from the BMW27 Blender demo, with changes to badges, trim and materials. The artist’s separate BlendSwap edition lists CC BY-SA. The McGuire archive lists its BMW edition under CC0. [Artist](https://mikepan.com/bmw.html) · [Blender demo used](https://download.blender.org/demo/test/BMW27_2.blend.zip) · [Artist’s BlendSwap listing](https://blendswap.com/blend/4066) · [Archive record](https://casual-effects.com/g3d/data10/index.html#model_bmw)
+- **Business Male 01, Business Female 01 and walk motion** from Microsoft Rocketbox. The pedestrian scenes adapt the materials and retarget the walk cycle. [Source](https://github.com/microsoft/Microsoft-Rocketbox) · [MIT license and copyright notice](licenses/Microsoft-Rocketbox-MIT.txt)
+- **Road motorcycle** by Innerscene, staged for the trailer occlusion experiment. [Model and CC0 dedication](https://www.innerscene.com/tools/library/3d-parts/road-motorcycle-f2519759)
+- **Asphalt 02** by Rob Tuytel and **Shanghai Bund** from Poly Haven supply road textures and environment lighting. [Asphalt 02](https://polyhaven.com/a/asphalt_02) · [Shanghai Bund](https://polyhaven.com/a/shanghai_bund) · [Poly Haven CC0 license](https://polyhaven.com/license)
+- **Geist Mono** by The Geist Project Authors supplies lettering in the timing scenes. [Source](https://github.com/vercel/geist-font) · [SIL Open Font License 1.1](licenses/Geist-OFL.txt)
